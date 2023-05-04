@@ -1,3 +1,0 @@
-/Users/michaelwarrick/Desktop/TMP/cmake-glad2/build/CMakeFiles/cmake-glad2.dir
-/Users/michaelwarrick/Desktop/TMP/cmake-glad2/build/CMakeFiles/edit_cache.dir
-/Users/michaelwarrick/Desktop/TMP/cmake-glad2/build/CMakeFiles/rebuild_cache.dir
